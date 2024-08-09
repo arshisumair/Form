@@ -1,0 +1,30 @@
+*{
+   margin: 0%; 
+   padding: 0%;
+}
+
+
+.sign-up-form{
+background-color:pink ;
+ width: 300px;
+  padding: 20px;
+  margin: 8% auto;
+  text-align: center;
+}
+.sign-up-form h1{
+color:#1c8adb ;
+margin-bottom: 30px; 
+}
+.input-box{
+    padding: 10px;
+    margin: 10px 0;
+    width: 100px;
+    border: 1px solid #1c8adb;
+    outline: none;
+}
+
+
+    
+
+
+
